@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src"
+        }
+    },
+    "description": "Test WebSocket",
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    },
+    "authors": [
+        {
+            "name": "Marek Zdybel",
+            "email": "marek.zdybel@sbg.com.pl"
+        }
+    ]
+}
